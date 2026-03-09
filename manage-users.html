@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Manage Users</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body class="profile-page">
+
+<div class="profile-container">
+
+<h1>Manage Users</h1>
+
+<table border="1" width="100%" style="color:white; margin-top:20px;">
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>Email</th>
+<th>Role</th>
+<th>Action</th>
+</tr>
+
+<tbody id="userTable">
+
+<tr>
+<td>1</td>
+<td>Ana</td>
+<td>ana@email.com</td>
+<td>User</td>
+<td><button onclick="deleteRow(this)">Delete</button></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Juan</td>
+<td>juan@email.com</td>
+<td>User</td>
+<td><button onclick="deleteRow(this)">Delete</button></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<br><br>
+
+<h2>Add User</h2>
+
+<input id="name" placeholder="Name"><br><br>
+<input id="email" placeholder="Email"><br><br>
+
+<select id="role">
+<option>User</option>
+<option>Admin</option>
+</select>
+
+<br><br>
+
+<button class="btn" onclick="addUser()">Add User</button>
+
+<br><br>
+
+<a href="admin.html">Back to Dashboard</a>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
