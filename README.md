@@ -1,168 +1,174 @@
 # narisma01-Integrative-programming
 
-﻿# lee-integrative-programming
+----------------------------------------------------------------------------------------------------------------------------------------------
 
- ACTVITY 1 January 21,2026
+ACTIVITY 1
+
+January 21, 2026
 
 🔹 Activity name (eg Landing Page).
 
-    Integrative Programming – Landing Page Project // Futuretech
+Integrative Programming – FutureTech Landing Page
 
-🔹 Description Explain: What the landing page is about Who it is for What problem it solves or purpose it serves (3–5 sentences only)
+🔹 Description Explain:
 
-    My Landing Page is about people in the current generation to design a for future uses like AI website, AI programming tool etc,. it serves people who have a creativity and want to create their own website with the help of AI and related projects in this page.
+The landing page introduces a concept about using modern technology and artificial intelligence for future web development. It is designed for people who are interested in creating their own websites using AI tools and creative ideas. The page highlights how AI can assist users in building projects, designing websites, and exploring new technology in web development.
 
-🔹 Technologies Used Example: HTML5 CSS3 JavaScript (optional)
- 
-     HTML, CSS
+🔹 Technologies Used
+Example: HTML5 CSS3 JavaScript (optional)
+
+HTML, CSS
 
 🔹 Features List at least 3 features of your landing page.
 
-    Clean UI Design, Innovative, Clear Call to Actions
+Modern and Clean Interface
+
+Creative Futuristic Design
+
+Clear Call-to-Action Buttons
 
 Example: Responsive layout Call-to-action button Clean UI design
 
 🔹 AI Assistance Disclosure (Required)
 Answer honestly: Did you use AI tools? (Yes / No)
 
-    Yes, I used Chatgpt, It helped me create images and align the text and generate a simple css layout with a diagonal line.
+Yes, I used ChatGPT. It helped generate images for the design and assisted with aligning text elements and creating a simple CSS layout with a diagonal design.
 
-If NO, state: “This project was created without the use of AI tools.”
-🔹 Learning Reflection (Short) Answer briefly: What did you learn from this activity? What was the most challenging part? (2–3 sentences)
+🔹 Learning Reflection (Short)
 
-    AI can help solving your problem if you have a concrete prompt. Using VScode to update your github using the vscode terminal. The most challenging part was making the diagonal and prompting to make a futuristic image.
+From this activity, I learned that AI can help solve problems when the prompt is clear and specific. I also practiced using VS Code and the terminal to update my GitHub repository. The most difficult part was designing the diagonal layout and generating a futuristic-style image.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 ACTIVITY 2
 
-
 🔹 Activity name (eg Login and Signup page linking)
 
-    Integrative Programming - Add Login + Signup Pages (Linking Activity)
+Integrative Programming – Login and Signup Page Linking
 
-🔹 Description Explain: 
+🔹 Description Explain:
 
-    Creating a Login and Signup pages with only one CSS, and connect them to the main and each other.
+This activity focuses on building login and signup pages connected to the main website. Both pages share the same CSS file to keep the design consistent. The pages are also linked together so users can easily switch between signing in and creating a new account.
 
 🔹 Features List at least 3 features of your signin / login if any.
 
-    Unique Account, Clean UI, Privacy and Policy.
+Individual User Account Creation
+
+Clean and Organized Interface
+
+Privacy and Policy Section
 
 Example: Responsive layout Call-to-action button Clean UI design
 
 🔹 AI Assistance Disclosure (Required)
-Answer honestly: Did you use AI tools? (Yes / No)
 
-    I used ChatGPT to create me a Login and Signup Pages with a bg image that is blurry.
+Yes, I used ChatGPT.
 
-If YES, specify: What AI tool you used What it helped you with (e.g., layout ideas, CSS styling, text content, debugging)
+I used ChatGPT to help create the layout for the login and signup pages, including a background image with a blur effect. The generated code was reviewed and adjusted to match my project design.
 
-Example: “I used ChatGPT to help generate CSS layout ideas and improve wording for the hero section.
-All code was reviewed and modified by me.”
+🔹 Learning Reflection (Short)
 
-If NO, state: “This project was created without the use of AI tools.”
-🔹 Learning Reflection (Short) Answer briefly: What did you learn from this activity? What was the most challenging part? (2–3 sentences)
-
-    I learn in this activity is about connecting 3 different pages to navigate a certain page.
+In this activity, I learned how to connect multiple web pages so users can navigate between them easily. It also helped me understand how to organize files and links in a website project.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Activity 3
-
+ACTIVITY 3
 
 🔹 Activity name (eg Login and Signup page linking)
 
-    Profile and Settings Page
+Profile and Settings Page
 
-🔹 Description Explain: 
+🔹 Description Explain:
 
-    Creating a Profile and Settings page where login will direct it to the Profile Page
+This activity involves creating a Profile and Settings page that users can access after logging in. The profile page displays the user’s account information and provides options to manage settings. It is designed to match the style of the main landing page for a consistent website design.
 
 🔹 Features List at least 3 features of your Profile / Settings if any.
 
-    Display Account, Easy Navigation, Settings
+Account Information Display
+
+Simple Navigation System
+
+User Settings Options
 
 Example: Responsive layout Call-to-action button Clean UI design
 
 🔹 AI Assistance Disclosure (Required)
-Answer honestly: Did you use AI tools? (Yes / No)
 
-    I used ChatGPT to create me a Profile page related to my Index Page Design to fix with CSS Styling.
+Yes, I used ChatGPT.
 
-If YES, specify: What AI tool you used What it helped you with (e.g., layout ideas, CSS styling, text content, debugging)
+I used ChatGPT to help generate the structure of the profile page and assist with CSS styling so that the design matches my main index page.
 
-Example: “I used ChatGPT to help generate CSS layout ideas and improve wording for the hero section.
-All code was reviewed and modified by me.”
+🔹 Learning Reflection (Short)
 
-If NO, state: “This project was created without the use of AI tools.”
-🔹 Learning Reflection (Short) Answer briefly: What did you learn from this activity? What was the most challenging part? (2–3 sentences)
+From this activity, I learned how to design a user profile page and settings section within a website. I also practiced adding a logout button to return users to the login page.
 
-    I learn in this activity is about creating your own Profile Page and Settings where there will be a Logout Button.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Activity 4
+ACTIVITY 4
 
 🔹 Activity name (eg Login and Signup page linking)
 
-    Adding Validation Rule
+Adding Validation Rules
 
-🔹 Description Explain: 
+🔹 Description Explain:
 
-    Creating a Validation Rule to make the user required to input their Details to Login or Signup
+This activity focuses on adding form validation rules to the login and signup system. The system ensures that users must enter the required information before submitting their details. It also checks that the password and confirm password fields match during account registration.
 
 🔹 Features List at least 3 features of your Profile / Settings if any.
 
-    Unique Account, Signup Password and Confirm Password Match, LocalStorage.
+Unique Account Registration
+
+Password and Confirm Password Verification
+
+LocalStorage for Saving User Data
 
 Example: Responsive layout Call-to-action button Clean UI design
 
 🔹 AI Assistance Disclosure (Required)
-Answer honestly: Did you use AI tools? (Yes / No)
 
-    I used ChatGPT to create me a JS script where the Password and Confirm Password must be a Match before logging in.
+Yes, I used ChatGPT.
 
-If YES, specify: What AI tool you used What it helped you with (e.g., layout ideas, CSS styling, text content, debugging)
+I used ChatGPT to help generate a JavaScript script that checks if the password and confirm password fields match before allowing the user to sign up.
 
-Example: “I used ChatGPT to help generate CSS layout ideas and improve wording for the hero section.
-All code was reviewed and modified by me.”
+🔹 Learning Reflection (Short)
 
-If NO, state: “This project was created without the use of AI tools.”
-🔹 Learning Reflection (Short) Answer briefly: What did you learn from this activity? What was the most challenging part? (2–3 sentences)
+In this activity, I learned how to validate user input using JavaScript before allowing form submission. I also learned how LocalStorage can be used to store account information on the browser. The challenging part was making sure the validation worked correctly.
 
-    I learn in this activity is about Inputting your Information is required to do and how to do it with the JS script. And Using Local Storage to store an account.
-    
-   
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Activity 5
+ACTIVITY 5
 
 🔹 Activity name (eg Login and Signup page linking)
 
-    Admin and Manage User Page
+Admin and Manage User Page
 
-🔹 Description Explain: 
+🔹 Description Explain:
 
-    
+This activity focuses on creating an Admin Page that allows management of registered users on the website. The page is designed for administrators to view the accounts created by users. It helps organize user information and provides simple controls for managing the stored data in the system.
 
 🔹 Features List at least 3 features of your Profile / Settings if any.
 
-    
+View Registered Users
+
+Manage User Accounts
+
+Simple Admin Dashboard
 
 Example: Responsive layout Call-to-action button Clean UI design
 
 🔹 AI Assistance Disclosure (Required)
 Answer honestly: Did you use AI tools? (Yes / No)
 
-    
+Yes, I used ChatGPT.
 
 If YES, specify: What AI tool you used What it helped you with (e.g., layout ideas, CSS styling, text content, debugging)
 
-Example: “I used ChatGPT to help generate CSS layout ideas and improve wording for the hero section.
-All code was reviewed and modified by me.”
+“I used ChatGPT to help generate the structure of the admin page and assist with JavaScript logic for displaying user data stored in LocalStorage. The code was reviewed and modified to match my project design.”
 
-If NO, state: “This project was created without the use of AI tools.”
-🔹 Learning Reflection (Short) Answer briefly: What did you learn from this activity? What was the most challenging part? (2–3 sentences)
+🔹 Learning Reflection (Short)
+
+In this activity, I learned how to create an admin page that can display and manage user accounts. I also practiced using LocalStorage to retrieve stored user data. The most challenging part was organizing the user information and making sure the admin controls worked correctly.
+
 
     
     
